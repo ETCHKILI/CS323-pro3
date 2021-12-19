@@ -1,0 +1,39 @@
+FUNCTION mod :
+PARAM x
+PARAM n
+t2 := x / n
+t1 := t2 * n
+t0 := x - t1
+RETURN t0
+FUNCTION DigitSum :
+PARAM y
+IF y == #0 GOTO label0
+GOTO label1
+LABEL label0 :
+t3 := #0
+RETURN t3
+LABEL label1 :
+ARG #10
+ARG y
+t5 := CALL mod
+t7 := y / #10
+ARG t7
+t6 := CALL DigitSum
+t4 := t5 + t6
+RETURN t4
+FUNCTION main :
+READ t9
+num := t9
+IF num < #0 GOTO label2
+GOTO label3
+LABEL label2 :
+t11 := #0 - #1
+WRITE t11
+GOTO label4
+LABEL label3 :
+ARG num
+t13 := CALL DigitSum
+WRITE t13
+LABEL label4 :
+t14 := #0
+RETURN t14

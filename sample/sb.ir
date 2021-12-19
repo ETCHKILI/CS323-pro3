@@ -1,0 +1,3 @@
+FUNCTION main :
+READ t0
+sb := t0

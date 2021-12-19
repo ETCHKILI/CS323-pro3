@@ -1,0 +1,72 @@
+[DEBUG] 2021-12-14 17:57:44,406 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r08.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[INFO] 2021-12-14 17:57:44,406 (irsim.py 567): File loaded successfully
+[ERROR] 2021-12-14 17:57:46,375 (irsim.py 581): An error occurred at line 35: Illegal memory access
+[DEBUG] 2021-12-14 17:58:28,504 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r08.ir', 'inputs': '999', 'logpath': 'irsim.log'}
+[INFO] 2021-12-14 17:58:28,520 (irsim.py 567): File loaded successfully
+[INFO] 2021-12-14 17:58:30,395 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-12-14 17:58:30,395 (irsim.py 567): Total instructions = 101
+[DEBUG] 2021-12-14 17:58:53,710 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r08.ir', 'inputs': '32', 'logpath': 'irsim.log'}
+[INFO] 2021-12-14 17:58:53,710 (irsim.py 567): File loaded successfully
+[INFO] 2021-12-14 17:58:55,147 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-12-14 17:58:55,147 (irsim.py 567): Total instructions = 74
+[DEBUG] 2021-12-14 18:05:23,688 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r08.ir', 'inputs': '32', 'logpath': 'irsim.log'}
+[INFO] 2021-12-14 18:05:23,688 (irsim.py 567): File loaded successfully
+[DEBUG] 2021-12-14 19:31:22,672 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r08.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[INFO] 2021-12-14 19:31:22,679 (irsim.py 567): File loaded successfully
+[DEBUG] 2021-12-14 19:31:36,587 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r08.ir', 'inputs': '999', 'logpath': 'irsim.log'}
+[INFO] 2021-12-14 19:31:36,588 (irsim.py 567): File loaded successfully
+[DEBUG] 2021-12-14 19:35:38,580 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r08.ir', 'inputs': '999', 'logpath': 'irsim.log'}
+[INFO] 2021-12-14 19:35:38,580 (irsim.py 567): File loaded successfully
+[INFO] 2021-12-14 19:35:39,568 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-12-14 19:35:39,568 (irsim.py 567): Total instructions = 101
+[DEBUG] 2021-12-14 19:35:57,088 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r08.ir', 'inputs': '32', 'logpath': 'irsim.log'}
+[INFO] 2021-12-14 19:35:57,089 (irsim.py 567): File loaded successfully
+[INFO] 2021-12-14 19:35:59,514 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-12-14 19:35:59,514 (irsim.py 567): Total instructions = 74
+[DEBUG] 2021-12-14 19:36:07,291 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r08.ir', 'inputs': '-1', 'logpath': 'irsim.log'}
+[INFO] 2021-12-14 19:36:07,292 (irsim.py 567): File loaded successfully
+[INFO] 2021-12-14 19:36:08,208 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-12-14 19:36:08,208 (irsim.py 567): Total instructions = 12
+[DEBUG] 2021-12-14 19:39:21,852 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r08.ir', 'inputs': '258', 'logpath': 'irsim.log'}
+[INFO] 2021-12-14 19:39:21,853 (irsim.py 567): File loaded successfully
+[INFO] 2021-12-14 19:39:22,881 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-12-14 19:39:22,881 (irsim.py 567): Total instructions = 101
+[DEBUG] 2021-12-19 19:31:39,868 (irsim.py 620): Parsed arguments: {'irpath': 'try.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[ERROR] 2021-12-19 19:31:39,907 (irsim.py 581): Syntax error at line 9:
+t2 := - t1
+[INFO] 2021-12-19 19:31:39,927 (irsim.py 567): File loaded successfully
+[DEBUG] 2021-12-19 19:32:09,799 (irsim.py 620): Parsed arguments: {'irpath': 'try.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[ERROR] 2021-12-19 19:32:09,799 (irsim.py 581): Syntax error at line 9:
+t2 := - t1
+[INFO] 2021-12-19 19:32:09,800 (irsim.py 567): File loaded successfully
+[DEBUG] 2021-12-19 19:34:28,683 (irsim.py 620): Parsed arguments: {'irpath': 'try.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[ERROR] 2021-12-19 19:34:28,683 (irsim.py 581): Syntax error at line 9:
+t2 := - t1
+[INFO] 2021-12-19 19:34:28,686 (irsim.py 567): File loaded successfully
+[DEBUG] 2021-12-19 19:36:05,745 (irsim.py 620): Parsed arguments: {'irpath': 'try.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[INFO] 2021-12-19 19:36:05,767 (irsim.py 567): File loaded successfully
+[INFO] 2021-12-19 19:36:07,551 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-12-19 19:36:07,552 (irsim.py 567): Total instructions = 8
+[DEBUG] 2021-12-19 19:36:24,687 (irsim.py 620): Parsed arguments: {'irpath': 'try.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[INFO] 2021-12-19 19:36:24,688 (irsim.py 567): File loaded successfully
+[INFO] 2021-12-19 19:36:26,329 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-12-19 19:36:26,329 (irsim.py 567): Total instructions = 8
+[DEBUG] 2021-12-19 19:42:50,795 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r08.ir', 'inputs': '999', 'logpath': 'irsim.log'}
+[INFO] 2021-12-19 19:42:50,796 (irsim.py 567): File loaded successfully
+[INFO] 2021-12-19 19:42:51,879 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-12-19 19:42:51,879 (irsim.py 567): Total instructions = 10
+[DEBUG] 2021-12-19 19:43:23,720 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r08.ir', 'inputs': '369', 'logpath': 'irsim.log'}
+[INFO] 2021-12-19 19:43:23,721 (irsim.py 567): File loaded successfully
+[INFO] 2021-12-19 19:43:28,238 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-12-19 19:43:28,238 (irsim.py 567): Total instructions = 10
+[WARNING] 2021-12-19 19:43:29,905 (irsim.py 574): Program Counter goes out of bound. The running program will be terminated instantly
+[DEBUG] 2021-12-19 19:43:37,530 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r08.ir', 'inputs': '369', 'logpath': 'irsim.log'}
+[INFO] 2021-12-19 19:43:37,531 (irsim.py 567): File loaded successfully
+[DEBUG] 2021-12-19 20:20:44,328 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r08.ir', 'inputs': '369', 'logpath': 'irsim.log'}
+[INFO] 2021-12-19 20:20:44,328 (irsim.py 567): File loaded successfully
+[INFO] 2021-12-19 20:20:45,669 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-12-19 20:20:45,669 (irsim.py 567): Total instructions = 76
+[DEBUG] 2021-12-19 20:38:46,939 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r08.ir', 'inputs': '369', 'logpath': 'irsim.log'}
+[INFO] 2021-12-19 20:38:46,940 (irsim.py 567): File loaded successfully
+[INFO] 2021-12-19 20:38:48,311 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-12-19 20:38:48,311 (irsim.py 567): Total instructions = 66

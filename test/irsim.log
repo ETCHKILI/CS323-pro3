@@ -1,0 +1,20 @@
+[DEBUG] 2021-12-19 22:48:22,522 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r03.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[ERROR] 2021-12-19 22:48:22,523 (irsim.py 581): Undefined label at line 8: GOTO label2
+[ERROR] 2021-12-19 22:48:22,523 (irsim.py 581): Loading failed
+[DEBUG] 2021-12-19 22:59:10,575 (irsim.py 620): Parsed arguments: {'irpath': 'try.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[ERROR] 2021-12-19 22:59:10,575 (irsim.py 581): Undefined label at line 5: GOTO label2
+[ERROR] 2021-12-19 22:59:10,575 (irsim.py 581): Loading failed
+[DEBUG] 2021-12-19 23:09:04,428 (irsim.py 620): Parsed arguments: {'irpath': 'try.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[ERROR] 2021-12-19 23:09:04,429 (irsim.py 581): Undefined label at line 5: GOTO label2
+[ERROR] 2021-12-19 23:09:04,429 (irsim.py 581): Loading failed
+[DEBUG] 2021-12-19 23:09:32,865 (irsim.py 620): Parsed arguments: {'irpath': 'try.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[INFO] 2021-12-19 23:09:32,866 (irsim.py 567): File loaded successfully
+[INFO] 2021-12-19 23:09:34,912 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-12-19 23:09:34,912 (irsim.py 567): Total instructions = 32
+[DEBUG] 2021-12-19 23:10:02,168 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r03.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[ERROR] 2021-12-19 23:10:02,168 (irsim.py 581): Undefined label at line 8: GOTO label2
+[ERROR] 2021-12-19 23:10:02,168 (irsim.py 581): Loading failed
+[DEBUG] 2021-12-19 23:10:53,286 (irsim.py 620): Parsed arguments: {'irpath': 'test_3_r03.ir', 'inputs': '', 'logpath': 'irsim.log'}
+[INFO] 2021-12-19 23:10:53,287 (irsim.py 567): File loaded successfully
+[INFO] 2021-12-19 23:10:55,735 (irsim.py 567): Program has exited gracefully
+[INFO] 2021-12-19 23:10:55,736 (irsim.py 567): Total instructions = 4292
